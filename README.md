@@ -38,16 +38,16 @@ The topics 1 to 4 cover different Chisel constructs that are used for hardware c
 
 [Memories](memory.pdf)
 
-[Collections in Scala](Scala.pdf)
+[Collections in Scala](Scala_collections.pdf)
 
-[Scala I](Scala1.pdf)
+[Scala I](scala1.pdf)
 
 [Scala II](Scala2.pdf)
 
 [Project](Project.pdf)
 
-[Scala III](Scala3.pdf)
+[Scala III](scala3.pdf)
 
-[Scala IV](Scala4.pdf)
+[Scala IV](scala4.pdf)
 
 
