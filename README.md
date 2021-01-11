@@ -14,6 +14,7 @@ Below is the list of topics that are covered.
 - Collections in Scala, Scala I, Scala II
 - Project
 - Scala III, Scala IV
+- Diplomacy & TileLink in RocketChip
 
 The topics 1 to 4 cover different Chisel constructs that are used for hardware construction. The topics 5 and 7 selectively introduce Scala components that enable parameterized hardware generation. The proposed project is aimed to employ both Chisel as well as Scala to develop parameterized hardware modules allowing reusability. The examples and use cases are drawn from rocketchip core generators.
 
@@ -50,4 +51,5 @@ The topics 1 to 4 cover different Chisel constructs that are used for hardware c
 
 [Scala IV](scala4.pdf)
 
+[Diplomacy & TileLink](tilelink_diplomacy.pdf)
 
