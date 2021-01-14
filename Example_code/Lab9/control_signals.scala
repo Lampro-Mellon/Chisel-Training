@@ -1,0 +1,18 @@
+class ControlSignals extends Bundle with Config {
+  val inst      = Input(UInt(XLEN.W))
+  val pc_sel    = Output(UInt(2.W))
+  val inst_kill = Output(Bool())
+  val A_sel     = Output(UInt(1.W))
+  val B_sel     = Output(UInt(1.W))
+  val imm_sel   = Output(UInt(3.W))
+  val alu_op    = Output(UInt(5.W))
+  val br_type   = Output(UInt(3.W))
+  val st_type   = Output(UInt(2.W))
+  val ld_type   = Output(UInt(3.W))
+  val wb_sel    = Output(UInt(2.W))
+  val wb_en     = Output(Bool())
+  val csr_cmd   = Output(UInt(3.W))
+  val illegal   = Output(Bool())
+  val en_rs1    = Output(Bool())
+  val en_rs2    = Output(Bool())
+}

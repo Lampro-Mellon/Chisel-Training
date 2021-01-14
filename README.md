@@ -19,37 +19,37 @@ Below is the list of topics that are covered.
 The topics 1 to 4 cover different Chisel constructs that are used for hardware construction. The topics 5 and 7 selectively introduce Scala components that enable parameterized hardware generation. The proposed project is aimed to employ both Chisel as well as Scala to develop parameterized hardware modules allowing reusability. The examples and use cases are drawn from rocketchip core generators.
 
 
-[Chisel Programming Manual](Chisel_Lab_manual.pdf)
+[Chisel Programming Manual](Lab_Manual/Chisel_Lab_manual.pdf)
 
 ### Chisel Programming Slides
 
-[Introduction](Introduction.pdf)
+[Introduction](Lecture_slides/Introduction.pdf)
 
-[Combinational circuits](combinational.pdf)
+[Combinational circuits](Lecture_slides/combinational.pdf)
 
-[Control flow](control_combinational.pdf)
+[Control flow](Lecture_slides/control_combinational.pdf)
 
-[Testing in Chisel](Chisel_testers.pdf)
+[Testing in Chisel](Lecture_slides/Chisel_testers.pdf)
 
-[Parameterization](parameterization.pdf)
+[Parameterization](Lecture_slides/parameterization.pdf)
 
-[Sequential circuits](sequential.pdf)
+[Sequential circuits](Lecture_slides/sequential.pdf)
 
-[Finite state machines](fsm.pdf)
+[Finite state machines](Lecture_slides/fsm.pdf)
 
-[Memories](memory.pdf)
+[Memories](Lecture_slides/memory.pdf)
 
-[Collections in Scala](Scala_collections.pdf)
+[Collections in Scala](Lecture_slides/Scala_collections.pdf)
 
-[Scala I](scala1.pdf)
+[Scala I](Lecture_slides/scala1.pdf)
 
-[Scala II](Scala2.pdf)
+[Scala II](Lecture_slides/Scala2.pdf)
 
-[Project](Project.pdf)
+[Project](Lecture_slides/Project.pdf)
 
-[Scala III](scala3.pdf)
+[Scala III](Lecture_slides/scala3.pdf)
 
-[Scala IV](scala4.pdf)
+[Scala IV](Lecture_slides/scala4.pdf)
 
-[Diplomacy & TileLink](tilelink_diplomacy.pdf)
+[Diplomacy & TileLink](Lecture_slides/tilelink_diplomacy.pdf)
 
